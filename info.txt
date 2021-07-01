@@ -1,0 +1,24 @@
+pyuic5 /home/pda7271/kursovaya/design.ui -o /home/pda7271/kursovaya/design.py
+
+pyuic5 /home/pda7271/kursovaya/design_auth.ui -o /home/pda7271/kursovaya/design_auth.py
+
+pyuic5 /home/pda7271/kursovaya/security.ui -o /home/pda7271/kursovaya/security.py
+
+access settings + ok
+check user
+file open //xdg-open img.jpg
+
+/usr/bin/nautilus
+
+chmod ugo+rwx /home/pda7271/kursovaya/info.txt
+chmod ugo-rwx /home/pda7271/kursovaya/info.txt
+
+
+
+//////////
+sudo ./navicat15-pgsql-en_AppImage.appimage
+
+//
+psql
+\conninfo
+\q

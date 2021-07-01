@@ -1,0 +1,7 @@
+"userID","path","access","owner"
+"0","/Users/fetargo","r","0"
+"1","/Users/fetargo","rx","0"
+"0","/home/fetargo/script.sh","n","0"
+"1","/home/fetargo/script.sh","rwx","0"
+"0","/home/fetargo/lab1MO.py","rw","0"
+"1","/home/fetargo/lab1MO.py","rwx","0"
